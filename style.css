@@ -6,9 +6,10 @@
   }
   html,
   body {
-    font-family r;
+    font-family Roboto, sans-serif, arial;
     font-size: 16px;
-    color: #242424;
+    color: red;
+    background-color:blue;
   }
   .container {
     width: 1300px;
